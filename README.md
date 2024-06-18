@@ -1,4 +1,4 @@
-## SocketServer1
+## SocketProgram1
 
 아래의 기능을 수행하는 C/S 방식의 소켓 프로그램
 
